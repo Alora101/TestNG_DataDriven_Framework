@@ -1,0 +1,15 @@
+11/01/2015 00:56:18 devpinoyLogger Loading Property files.
+11/01/2015 00:56:18 devpinoyLogger Config file loaded sucessfully.
+11/01/2015 00:56:18 devpinoyLogger Loaded OR Property file succesfully.
+11/01/2015 00:56:18 devpinoyLogger Initializing all excel files
+11/01/2015 00:56:20 devpinoyLogger Excel files sucessfully initialized.
+11/01/2015 00:56:20 devpinoyLogger Checking if Suite is runnable.
+11/01/2015 00:56:20 devpinoyLogger Suite will be executed.ShoppingSuite
+11/01/2015 00:56:20 devpinoyLogger Checking if test is runnable--ShopLoginTest1
+11/01/2015 00:56:20 devpinoyLogger RunMode is Yes---ShopLoginTest1
+11/01/2015 00:56:20 devpinoyLogger Checking if test is runnable--ShopLoginTest2
+11/01/2015 00:56:20 devpinoyLogger Test Case will be skipped--ShopLoginTest2
+11/01/2015 00:56:20 devpinoyLogger Checking if Suite is runnable.
+11/01/2015 00:56:20 devpinoyLogger Suite will be skipped as runmode is No.AddressSuite
+11/01/2015 00:56:20 devpinoyLogger Checking if Suite is runnable.
+11/01/2015 00:56:20 devpinoyLogger Suite will be skipped as runmode is No.PurpleBrickSuite

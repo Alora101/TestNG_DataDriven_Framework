@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Address Suite">
+
+<test name="AddressTest1">
+    <classes>
+        <class name="com.pbricks.AddressSuite.AddressTest1" ></class>  
+    </classes>
+</test>
+
+<test name="AddressTest2">
+    <classes>
+        <class name="com.pbricks.AddressSuite.AddressTest2" ></class>  
+    </classes>
+</test>
+
+
+</suite>

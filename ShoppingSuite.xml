@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Shopping Suite">
+
+<test name="ShopLoginTest1">
+    <classes>
+        <class name="com.pbricks.ShoppingSuite.ShopLoginTest1" ></class>  
+    </classes>
+</test>
+
+<test name = "ShopLoginTest2">
+    <classes>
+       <class name="com.pbricks.ShoppingSuite.ShopLoginTest2" ></class>
+   </classes>
+</test>
+
+</suite>

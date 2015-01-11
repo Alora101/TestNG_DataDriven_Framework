@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<suite name="Regression Test Suite">
+
+<listeners>
+    <listener class-name="com.pbricks.listener.TestsListenerAdapter" />
+</listeners>
+
+<suite-files>
+   <suite-file path="./ShoppingSuite.xml"/>
+   <suite-file path="./AddressSuite.xml"/>   
+   <suite-file path="./PurpleBrickSuite.xml"/>
+</suite-files>
+
+</suite>
