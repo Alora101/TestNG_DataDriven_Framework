@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Bumblebee-PC" tests="0" failures="0" timestamp="11 Jan 2015 15:25:36 GMT" time="0.0" errors="0">
+  <testcase name="@BeforeSuite isSuiteSkipped" time="0.0" classname="com.pbricks.AddressSuite.AddressTest2">
+    <skipped/>
+  </testcase>
+</testsuite>

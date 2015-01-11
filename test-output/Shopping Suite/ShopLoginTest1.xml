@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Bumblebee-PC" name="com.pbricks.ShoppingSuite.ShopLoginTest1" tests="2" failures="0" timestamp="11 Jan 2015 15:25:36 GMT" time="0.066" errors="0">
+  <testcase name="ShopLoginTest10" time="0.0" classname="com.pbricks.ShoppingSuite.ShopLoginTest1"/>
+  <testcase name="ShopLoginTest10" time="0.0" classname="com.pbricks.ShoppingSuite.ShopLoginTest1"/>
+</testsuite>

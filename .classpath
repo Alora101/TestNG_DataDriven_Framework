@@ -3,16 +3,16 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/dom4j-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/log4j-1.2.14.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/mail.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/poi-3.6-20091214.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/poi-ooxml-3.6-20091214.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/poi-ooxml-schemas-3.6-20091214.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/saxon-8.7.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/SaxonLiaison.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/testng.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/testng-xslt-maven-plugin-test-0.0.jar"/>
-	<classpathentry kind="lib" path="C:/PurplebricksProject/jar-core/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/mail.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/testng.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="C:/TestNG_DataDriven_Framework/jar-core/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
